@@ -4,11 +4,12 @@
   <img src="https://user-images.githubusercontent.com/81128717/184713380-3bd82d33-fcad-46c4-a39c-34aadafdbe8c.gif"/>
 </p>
 
-<h4 align="center"> Analista QA Jr. / QA Analist </h4>
+<h4 align="center"> Analista QA / QA Analist / Software Developer </h4>
    
 <p align="center">
    · <a href="https://www.linkedin.com/in/clarice-martins-519ba117a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA1gtDeoVR6ul%2BQIg7sNAvw%3D%3D">LinkedIn</a>
    · <a href="https://www.youtube.com/channel/UC3NNgYZzlskf7twm-fxA2og">YouTube</a>
+   · <a href="https://claricemartins.net/">Portifólio</a>
     <br>
 </p>   
 
