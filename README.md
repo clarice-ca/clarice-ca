@@ -9,7 +9,7 @@
 <p align="center">
    · <a href="https://www.linkedin.com/in/clarice-martins-519ba117a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BA1gtDeoVR6ul%2BQIg7sNAvw%3D%3D">LinkedIn</a>
    · <a href="https://www.youtube.com/channel/UC3NNgYZzlskf7twm-fxA2og">YouTube</a>
-   · <a href="https://claricemartins.net/">Portifólio</a>
+   · <a href="https://clarice-martins.com/">Portifólio</a>
     <br>
 </p>   
 
